@@ -143,8 +143,8 @@ button:hover{
 
 @media screen and (max-width: 375px){
     body{
-        display: block;
-    }
+        display: flex;
+        flex-wrap: wrap;
     .head{
         display: flex;
         margin-top: 40px;
