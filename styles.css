@@ -146,7 +146,7 @@ button:hover {
 
 .house{
     display: grid;
-    width: 100%;
+    width: 60%;
     grid-template-areas: 
          'a a b'
          'c d d'
@@ -186,6 +186,6 @@ button:hover {
 
 @media(max-width: 375px){
     .house{
-        padding: 20px;
+        padding: 0px;
     }
 }
