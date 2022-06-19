@@ -142,7 +142,7 @@ button:hover{
 }
 
 @media screen and (max-width: 375px){
-    body{
+   body{
         display: flex;
         flex-wrap: wrap;
     }
@@ -156,11 +156,11 @@ button:hover{
     .head a{
         text-decoration: none;
         text-transform: uppercase;
-        font-size: large;
+        font-size: xx-large;
         color: rgb(111, 101, 101);
         font-weight: 900;
         font-family: 'Fascinate Inline', cursive;
-        margin-left: 40%;
+        margin-left: 10%;
     }
     .container{
         padding: 30px 0;
@@ -170,8 +170,8 @@ button:hover{
     .sedans{
         padding: auto;
         position: relative;
-        margin-left: 1%;
-        width: 225px;
+        margin-left: 2%;
+        width: 320px;
         height: 500px;
         border-top-left-radius: 10px;
         border-top-right-radius: 10px;
@@ -181,23 +181,23 @@ button:hover{
     .suv{
         padding: auto;
         position: relative;
-        margin-left: 1%;
-        width: 225px;
+        margin-left: 2%;
+        width: 320px;
         height: 500px;
     }
     .luxury{
         padding: auto;
         position: relative;
-        margin-left: 1%;
-        width: 225px;
+        margin-left: 2%;
+        width: 320px;
         height: 500px;
         border-top-right-radius: 0px;
         border-bottom-right-radius: 10px;
         border-bottom-left-radius: 10px;
     }
     p{
-        font-size: 13px;
-        letter-spacing: 1px;
+        font-size: 15px;
+        letter-spacing: 2px;
     }
     h2{
         text-transform: uppercase;
