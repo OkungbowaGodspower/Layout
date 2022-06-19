@@ -145,6 +145,7 @@ button:hover{
     body{
         display: flex;
         flex-wrap: wrap;
+    }
     .head{
         display: flex;
         margin-top: 40px;
